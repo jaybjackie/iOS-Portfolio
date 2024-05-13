@@ -11,7 +11,7 @@ User can input their cars up to 5 cars and can switching between their car as a 
 
 This application is my first project that help me learn from the ground up, I have gained the knowledge of how to setting up the project, how to collaraborate with team, data managment, third party integration, and a lot more during the development.
 
-We used Swift, SwiftUI, Maps API, and EV charger in Thailand that I have collect from open source and launch the API to serves in this project.
+We used Swift, SwiftUI, Firebase, Maps API, and EV charger in Thailand that I have collect from open source and launch the API to serves in this project.
 
 <img width="232" alt="driving preference" src="https://github.com/jaybjackie/iOS-Portfolio/assets/88821578/ef05989a-a753-4695-bc58-54672d2bb777">
 
