@@ -13,8 +13,6 @@ This application is my first project that help me learn from the ground up, I ha
 
 We used Swift, SwiftUI, Maps API, and EV charger in Thailand that I have collect from open source and launch the API to serves in this project.
 
-<img width="232" alt="main view without start_destination" src="https://github.com/jaybjackie/iOS-Portfolio/assets/88821578/220321b8-9317-4980-bb32-2fadda34970f">
-
 <img width="232" alt="driving preference" src="https://github.com/jaybjackie/iOS-Portfolio/assets/88821578/ef05989a-a753-4695-bc58-54672d2bb777">
 
 <img width="232" alt="battery input" src="https://github.com/jaybjackie/iOS-Portfolio/assets/88821578/a242ec21-81a1-48f7-8355-833c7a953ce7">
